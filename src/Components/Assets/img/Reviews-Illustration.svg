@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="436px" height="190px" viewBox="0 0 436 190">
+  <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+  <title>Reviews-Illustration</title>
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <filter x="-30.8%" y="-98.0%" width="161.5%" height="294.5%" filterUnits="objectBoundingBox" id="filter-1">
+      <feMorphology radius="1.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+      <feOffset dx="0" dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+      <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+      <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+    <filter x="-30.6%" y="-98.0%" width="161.1%" height="294.5%" filterUnits="objectBoundingBox" id="filter-2">
+      <feMorphology radius="1.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+      <feOffset dx="0" dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+      <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+      <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+    <filter x="-21.9%" y="-77.8%" width="143.8%" height="255.6%" filterUnits="objectBoundingBox" id="filter-3">
+      <feMorphology radius="1.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+      <feOffset dx="0" dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+      <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+      <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+    <polygon id="path-4" points="0.0787242736 0.0928954858 33.3889727 0.0928954858 33.3889727 41.6759544 0.0787242736 41.6759544"></polygon>
+  </defs>
+  <g id="Reviews-Illustration" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <rect id="Rectangle" fill="#FFFFFF" opacity="0" x="0" y="0" width="436" height="190"></rect>
+    <g id="Hootsuite-Reviews-Illustration" transform="translate(68.000000, 1.000000)">
+      <g id="Group" filter="url(#filter-1)" transform="translate(149.000000, 124.000000)">
+        <g id="Group-2-Copy-3" fill="#FFFFFF">
+          <g id="post">
+            <g id="Rectangle">
+              <g id="path-1-link">
+                <rect id="path-1" x="0" y="0" width="158.738593" height="49.2545455" rx="3.15"></rect>
+              </g>
+            </g>
+          </g>
+        </g>
+        <polygon id="Star-Copy-15" fill="#FCBB47" fill-rule="nonzero" points="25.7471591 31.8181818 18.5785168 35.7511254 19.9476056 27.4210173 14.1480522 21.5216019 22.1628379 20.3062555 25.7471591 12.7272727 29.3314803 20.3062555 37.346266 21.5216019 31.5467125 27.4210173 32.9158014 35.7511254"></polygon>
+        <polygon id="Star-Copy-16" fill="#FCBB47" fill-rule="nonzero" points="52.8494318 31.8181818 45.6807895 35.7511254 47.0498784 27.4210173 41.2503249 21.5216019 49.2651106 20.3062555 52.8494318 12.7272727 56.433753 20.3062555 64.4485387 21.5216019 58.6489853 27.4210173 60.0180741 35.7511254"></polygon>
+        <polygon id="Star-Copy-17" stroke="#FCBB47" stroke-width="2" points="78.1448864 14.8428038 75.1699751 21.1332004 68.4382301 22.153989 73.3118759 27.1115535 72.1697172 34.0609237 78.1448864 30.7827573 84.1200555 34.0609237 82.9778968 27.1115535 87.8515427 22.153989 81.1197976 21.1332004"></polygon>
+        <polygon id="Star-Copy-18" stroke="#FCBB47" stroke-width="2" points="104.34375 14.8428038 101.368838 21.1332004 94.6370936 22.153989 99.5107399 27.1115535 98.3685806 34.0609237 104.34375 30.7827573 110.318919 34.0609237 109.17676 27.1115535 114.050406 22.153989 107.318662 21.1332004"></polygon>
+        <polygon id="Star-Copy-19" stroke="#FCBB47" stroke-width="2" points="131.446023 14.8428038 128.471111 21.1332004 121.739366 22.153989 126.613013 27.1115535 125.470853 34.0609237 131.446023 30.7827573 137.421192 34.0609237 136.279033 27.1115535 141.152679 22.153989 134.420934 21.1332004"></polygon>
+      </g>
+      <g id="Group-2" filter="url(#filter-2)" transform="translate(0.000000, 27.000000)">
+        <g id="Group-2-Copy-2" fill="#FFFFFF">
+          <g id="post">
+            <g id="Rectangle">
+              <g id="path-3-link">
+                <rect id="path-3" x="0" y="0" width="159.736949" height="49.2545455" rx="3.15"></rect>
+              </g>
+            </g>
+          </g>
+        </g>
+        <polygon id="Star-Copy-10" fill="#82A6C2" fill-rule="nonzero" points="25.6271186 31.2954545 18.215047 35.2143519 19.6306267 26.9139941 13.6341348 21.0356481 21.9210828 19.8246423 25.6271186 12.2727273 29.3331544 19.8246423 37.6201025 21.0356481 31.6236106 26.9139941 33.0391903 35.2143519"></polygon>
+        <polygon id="Star-Copy-11" fill="#82A6C2" fill-rule="nonzero" points="52.4745763 31.2954545 45.0625046 35.2143519 46.4780843 26.9139941 40.4815924 21.0356481 48.7685405 19.8246423 52.4745763 12.2727273 56.1806121 19.8246423 64.4675601 21.0356481 58.4710682 26.9139941 59.886648 35.2143519"></polygon>
+        <polygon id="Star-Copy-12" fill="#82A6C2" fill-rule="nonzero" points="78.5084746 31.2954545 71.0964029 35.2143519 72.5119826 26.9139941 66.5154907 21.0356481 74.8024388 19.8246423 78.5084746 12.2727273 82.2145104 19.8246423 90.5014581 21.0356481 84.5049665 26.9139941 85.9205463 35.2143519"></polygon>
+        <polygon id="Star-Copy-13" stroke="#82A6C2" stroke-width="1.8" points="105.355932 14.1214512 102.190153 20.5724668 95.111256 21.6069352 100.233594 26.6283505 99.0243742 33.7187028 105.355932 30.3710925 111.68749 33.7187028 110.478271 26.6283505 115.600608 21.6069352 108.521711 20.5724668"></polygon>
+        <polygon id="Star-Copy-14" stroke="#82A6C2" stroke-width="1.8" points="132.20339 14.1214512 129.037611 20.5724668 121.958714 21.6069352 127.081051 26.6283505 125.871832 33.7187028 132.20339 30.3710925 138.534948 33.7187028 137.325728 26.6283505 142.448066 21.6069352 135.369169 20.5724668"></polygon>
+      </g>
+      <g id="Group-31" filter="url(#filter-3)" transform="translate(48.000000, 69.000000)">
+        <g id="Rectangle" fill="#FFFFFF">
+          <g id="path-5-link">
+            <rect id="path-5" x="0" y="0" width="224" height="63" rx="3.5"></rect>
+          </g>
+        </g>
+        <g id="Group-30" transform="translate(19.044534, 13.500000)" fill="#143659" fill-rule="nonzero">
+          <polygon id="Star" points="17.6842105 26.325 7.28969238 31.7482483 9.27486873 20.2616241 0.86552687 12.1267517 12.4869515 10.4508759 17.6842105 0 22.8814696 10.4508759 34.5028942 12.1267517 26.0935523 20.2616241 28.0787287 31.7482483"></polygon>
+          <polygon id="Star-Copy" points="54.8663968 26.325 44.4718786 31.7482483 46.457055 20.2616241 38.0477131 12.1267517 49.6691377 10.4508759 54.8663968 0 60.0636558 10.4508759 71.6850804 12.1267517 63.2757386 20.2616241 65.2609149 31.7482483"></polygon>
+          <polygon id="Star-Copy-2" points="92.048583 26.325 81.6540649 31.7482483 83.6392412 20.2616241 75.2298993 12.1267517 86.8513239 10.4508759 92.048583 0 97.2458419 10.4508759 108.867267 12.1267517 100.457925 20.2616241 102.443101 31.7482483"></polygon>
+          <polygon id="Star-Copy-3" points="130.137652 26.325 119.743134 31.7482483 121.72831 20.2616241 113.318968 12.1267517 124.940393 10.4508759 130.137652 0 135.334911 10.4508759 146.956335 12.1267517 138.546994 20.2616241 140.53217 31.7482483"></polygon>
+          <polygon id="Star-Copy-4" points="167.319838 26.325 156.92532 31.7482483 158.910496 20.2616241 150.501154 12.1267517 162.122579 10.4508759 167.319838 0 172.517097 10.4508759 184.138522 12.1267517 175.72918 20.2616241 177.714356 31.7482483"></polygon>
+        </g>
+      </g>
+      <g id="Group-39" transform="translate(174.000000, 0.000000)">
+        <path d="M37.3066076,92.2451824 C36.7966861,93.8949974 37.479761,95.5663853 38.8365046,96.0934579 C39.0505948,96.0132344 39.2517018,95.8908966 39.4192909,95.718048 L43.4782609,91.4616789 C43.2155499,91.046868 42.5020043,90.5750864 40.9630986,89.9084947 C39.5450159,89.2942227 37.8403758,90.5181161 37.3066076,92.2451824" id="Fill-28" fill="#1B2F45" fill-rule="nonzero"></path>
+        <path d="M77.5661007,34.7552766 L73.0870714,24.6497726 L73.0103335,24.4766355 L38.2204769,38.7031607 C37.0943034,39.1636235 36.1688289,40.0074432 35.6088219,41.0844992 L34.6226501,42.9812072 C34.2960649,43.6091809 33.8161322,44.1453433 33.2273806,44.5402084 L31.0162256,46.0228707 C30.2281865,46.551233 29.6224961,47.3083562 29.2811536,48.1914322 L28.4304922,50.390299 C28.1853929,51.0246662 27.7234256,51.5526448 27.1264613,51.8816565 L24.5689591,53.2904095 C23.4203289,53.9232423 22.4933146,54.8914801 21.9131607,56.064695 L20.0550256,59.8216679 L7.15086832,62.3110574 C5.45929818,62.6372558 3.96252423,63.609202 2.98007385,65.0193615 L0.0405504601,69.2374367 L0,69.3069984 L42.255376,69.5800027 C50.8738887,71.4420577 42.2661553,82.0727272 42.2661553,82.0727272 C34.3462397,90.916402 35.7941221,94.9431821 37.3324731,96.5474497 C37.7646692,96.998322 38.4102684,97.1071406 38.9592395,96.8969207 C37.6449427,96.3752076 36.9834312,94.7208146 37.4773512,93.0877761 C37.9943696,91.3781438 39.6453892,90.166823 41.0188436,90.7748491 C42.5095863,91.4346622 43.200869,91.9015186 43.4554643,92.3119837 L60.0789714,74.4970198 C64.7762803,69.8081243 67.0757223,66.1898912 68.3561416,60.8626644 C70.4797794,52.0284522 79.5216338,47.1009497 82.4275362,45.7233972 L77.5661007,34.7552766 Z" id="Fill-30" fill="#F2B140" fill-rule="nonzero"></path>
+        <path d="M100.905804,37.4250115 L93.6648877,21.4224301 L92.223442,18.2368146 L91.4937899,16.6240349 L91.3551042,16.317757 L72.632905,23.7689746 C72.4914328,23.8253217 72.4251929,23.986224 72.4868733,24.1240867 L72.5071379,24.16954 L72.5828768,24.338957 L77.0035966,34.2346377 L81.8017444,44.9750244 L82.3500281,46.2022645 C82.3616803,46.2281842 82.3920771,46.2404553 82.418801,46.229812 L101.449275,38.6260816 L100.905804,37.4250115 Z" id="Fill-32" fill="#FFFFFE" fill-rule="nonzero"></path>
+        <g id="Group-36" transform="translate(91.485507, 0.000000)">
+          <g id="Fill-34-Clipped">
+            <mask id="mask-5" fill="white">
+              <use xlink:href="#path-4"></use>
+            </mask>
+            <g id="path-7"></g>
+            <path d="M34.2159906,0.0928954858 L0.372851918,15.0351389 C0.124997589,15.1376801 0.010818937,15.4235026 0.120410054,15.6672439 L0.18412582,15.8088243 L0.323663347,16.1189829 L1.05792383,17.7514034 L2.50834952,20.9761912 L9.79361014,37.1749129 L10.3404188,38.3907042 L11.6934869,41.399002 C11.795687,41.6258856 12.0580685,41.733877 12.2912682,41.6447714 L34.4503371,33.2627568 L34.2159906,0.0928954858 Z" id="Fill-34" fill="#2F5972" fill-rule="nonzero" mask="url(#mask-5)"></path>
+          </g>
+        </g>
+        <path d="M81.3212665,26.1927275 C80.1242571,25.8317337 79.4462272,24.5676095 79.8070599,23.369508 C80.1676345,22.1714066 81.4306137,21.4929605 82.6277522,21.8539543 C83.8250198,22.2150773 84.5030497,23.4790724 84.142217,24.6771738 C83.7813842,25.8752752 82.5182759,26.5538504 81.3212665,26.1927275" id="Fill-37" fill="#1B2F45" fill-rule="nonzero"></path>
+      </g>
+    </g>
+  </g>
+</svg>

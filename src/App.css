@@ -1,0 +1,44 @@
+body{
+  padding: 0px!important;
+  margin: 0px !important;
+}
+@font-face {
+  font-family: SourceSansPro-Bold;
+  src: url("../src/Components/Assets/fontfamily/SourceSansPro-Bold.ttf");
+}
+@font-face {
+  font-family:SourceSansPro-ExtraLight;
+  src: url("../src/Components/Assets/fontfamily/SourceSansPro-ExtraLight.ttf");
+}
+@font-face {
+  font-family:SourceSansPro-Light;
+  src: url("../src/Components/Assets/fontfamily/SourceSansPro-Light.ttf");
+}
+@font-face {
+  font-family:SourceSansPro-Regular;
+  src: url("../src/Components/Assets/fontfamily/SourceSansPro-Regular.ttf");
+}
+@font-face {
+  font-family:SourceSansPro-SemiBold;
+  src: url("../src/Components/Assets/fontfamily/SourceSansPro-SemiBold.ttf");
+}
+@font-face {
+  font-family:SourceSansPro-Italic;
+  src: url("../src/Components/Assets/fontfamily/SourceSansPro-Italic.ttf");
+}
+
+.inner-container{
+  max-width: 1140px !important;
+}
+@media (min-width:1400px){
+  .inner-container {
+    max-width: 1392px !important;
+}
+}
+.hover-container{
+  padding-left: 110px !important;
+  padding-right: 110px !important;
+}
+a{
+  text-decoration: none !important;
+}

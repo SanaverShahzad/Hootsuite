@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="436px" height="190px" viewBox="0 0 436 190">
+  <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+  <title>Analytics-Illustration</title>
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <filter x="-16.0%" y="-38.6%" width="131.9%" height="177.2%" filterUnits="objectBoundingBox" id="filter-1">
+      <feMorphology radius="1.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+      <feOffset dx="0" dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+      <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+      <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+    <filter x="-18.7%" y="-41.2%" width="137.4%" height="182.4%" filterUnits="objectBoundingBox" id="filter-2">
+      <feMorphology radius="1.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+      <feOffset dx="0" dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+      <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+      <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+  <g id="Analytics-Illustration" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <rect id="Rectangle" fill="#FFFFFF" opacity="0" x="0" y="0" width="436" height="190"></rect>
+    <g id="Hootsuite-Analytics-Illustration" transform="translate(65.000000, 10.000000)">
+      <g id="Group-25" filter="url(#filter-1)">
+        <g id="Rectangle">
+          <g id="path-1-link" fill="#000000" fill-rule="nonzero">
+            <rect id="path-1" x="0" y="0" width="307" height="127"></rect>
+          </g>
+          <g id="path-1-link" fill="#EEEBE4">
+            <rect id="path-1" x="0" y="0" width="307" height="127"></rect>
+          </g>
+        </g>
+      </g>
+      <g id="Group" transform="translate(13.000000, 11.000000)" fill="#CFCCC6" fill-rule="nonzero">
+        <rect id="Rectangle" x="16.4680851" y="6.5625" width="69.5319149" height="2.8125" rx="1.40625"></rect>
+        <ellipse id="Oval" cx="7.31914894" cy="7.5" rx="7.31914894" ry="7.5"></ellipse>
+      </g>
+      <g id="Group-3" filter="url(#filter-2)" transform="translate(28.000000, 42.000000)">
+        <g id="Rectangle">
+          <g id="path-3-link" fill="#000000" fill-rule="nonzero">
+            <rect id="path-3" x="0" y="0" width="262" height="119"></rect>
+          </g>
+          <g id="path-3-link" fill="#FFFFFF">
+            <rect id="path-3" x="0" y="0" width="262" height="119"></rect>
+          </g>
+        </g>
+        <polyline id="Line" stroke="#CFCCC6" stroke-width="2" stroke-linecap="square" points="46.7785823 90.9663462 92.2020906 48.5153846 155.419861 78.7230769 211.790941 32.0384615"></polyline>
+        <ellipse id="Oval-Copy" fill="#FCBB47" fill-rule="nonzero" cx="91.7456446" cy="48.5153846" rx="12.3240418" ry="12.8153846"></ellipse>
+        <ellipse id="Oval-Copy-3" fill="#143659" fill-rule="nonzero" cx="154.735192" cy="74.1461538" rx="12.3240418" ry="12.8153846"></ellipse>
+        <ellipse id="Oval-Copy-5" fill="#FCBB47" fill-rule="nonzero" cx="212.247387" cy="32.0384615" rx="12.3240418" ry="12.8153846"></ellipse>
+        <ellipse id="Oval" fill="#6F5E8A" fill-rule="nonzero" cx="46.1010453" cy="91.0807692" rx="12.3240418" ry="12.3576923"></ellipse>
+        <g id="Group-2" transform="translate(247.393728, 14.646154)" fill-rule="nonzero">
+          <rect id="Rectangle" fill="#F8F8F7" x="0.912891986" y="0" width="2.73867596" height="86.9615385"></rect>
+          <rect id="Rectangle" fill="#EEEBE4" x="0" y="10.0692308" width="4.56445993" height="17.3923077"></rect>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
